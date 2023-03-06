@@ -158,6 +158,7 @@ nav.sticky{
     background-color: #ddd;
 }
 
+
 @media(max-width: 767px) {
     .nav-links{
         display: none;
